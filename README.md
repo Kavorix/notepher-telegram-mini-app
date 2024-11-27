@@ -31,7 +31,7 @@ Follow these steps to set up and run your bot using this repository:
 1. **Clone Repository**
 
     ```bash
-    git clone https://github.com/deptyped/notepher-bot.git
+    git clone https://github.com/xylend-dev/notepher-telegram-mini-app
     ```
 
 2. **Build and Deploy Web App**
@@ -162,12 +162,6 @@ Follow these steps to set up and run your bot using this repository:
     <td>LOG_LEVEL</td>
     <td>
         String
-    </td>
-    <td>
-        <i>Optional.</i>
-        Specifies the application log level. <br/>
-        For example, use <code>info</code> for general logging. View the <a href="https://github.com/pinojs/pino/blob/master/docs/api.md#level-string">Pino documentation</a> for more log level options. <br/>
-        Defaults to <code>info</code>.
     </td>
   </tr>
   <tr>
